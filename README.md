@@ -1,6 +1,12 @@
-# Welcome to your Expo app 👋
+# Welcome to GoodMeal 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+## ScreenShots
+
+| iOS                                                   | Android                                                       |
+| ----------------------------------------------------- | ------------------------------------------------------------- |
+| ![Screenshot of GoodMeal for iOS](./GoodMeal_ios.png) | ![Screenshot of GoodMeal for Android](./GoodMeal_android.png) |
 
 ## Get started
 
