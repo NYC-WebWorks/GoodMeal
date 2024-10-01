@@ -31,15 +31,13 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## TheMealDB API
 
-When you're ready, run:
+To learn more about [TheMealDB](https://www.themealdb.com) API:
 
-```bash
-npm run reset-project
-```
+visit https://www.themealdb.com/api.php
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+The API and site will always remain free at point of access.
 
 ## Learn more
 
